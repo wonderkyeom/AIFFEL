@@ -20,4 +20,4 @@ _출처 : https://commons.wikimedia.org/wiki/File:MnistExamples.png_
 
 ### 2) 해당 모델을 웹 상에서도 돌아갈 수 있는 서비스를 구현해보자
 
-#### Backbone Network : VGG16
+#### Backbone Network : LeNet
