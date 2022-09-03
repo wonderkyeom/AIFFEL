@@ -1,5 +1,5 @@
 # Practice - number classifier using MNIST
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/52550295/188263336-17c39c28-71d2-44de-b765-1dd92290341d.png)
 _출처 : https://commons.wikimedia.org/wiki/File:MnistExamples.png_
 
 
