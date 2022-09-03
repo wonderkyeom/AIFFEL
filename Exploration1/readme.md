@@ -6,6 +6,7 @@ _출처 : https://commons.wikimedia.org/wiki/File:MnistExamples.png_
 
 
 ### MNIST 데이터셋을 학습시켜 0에서 9까지의 숫자를 판별할 수 있는 모델을 만들어보자.
+![image](https://user-images.githubusercontent.com/52550295/188263428-b4465a9a-8873-49ec-9229-fd3a02f34591.png)
     
     
 ---
