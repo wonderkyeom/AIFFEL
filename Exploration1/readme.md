@@ -35,20 +35,19 @@ _출처 : https://commons.wikimedia.org/wiki/File:MnistExamples.png_
 
 ### trainset(1차 2100개 + 2차 2500개)
 1차 : 캐글에서 받은 가위바위보 데이터 셋(https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors)
-![image.png](attachment:image.png)
-
+![image](https://user-images.githubusercontent.com/52550295/188382433-6e7899c5-8bf8-4484-9c1a-083217d8a2c0.png)
 
 2차 : tf-dataset의 rock_paper_scissors 데이터 셋
-![image-5.png](attachment:image-5.png)
-![image-4.png](attachment:image-4.png)
+![image](https://user-images.githubusercontent.com/52550295/188382507-08578268-f2a0-456a-a510-cc136d429222.png)
+![image](https://user-images.githubusercontent.com/52550295/188382545-fff909ed-9188-4ca9-b906-1c54d659fd43.png)
 
 - 사진에서 보이는 것 처럼 1차 학습데이터는 초록색 단색의 바탕에 데이터의 분포가 넓지 않고, 2차 학습데이터 역시 크게 다르지는 않음(Data Augmentation 수행 예정)
 
 
 ### testset(4000개)
 열 명 정도가 실내에서 촬영한 가위바위보 사진으로 1차 데이터셋보다는 상대적으로 데이터의 분포가 크고, 배경이 다양함
-![image-2.png](attachment:image-2.png)
-![image-3.png](attachment:image-3.png)
+![image](https://user-images.githubusercontent.com/52550295/188382635-fd77187c-62e5-41c7-9c11-07b0122ae9b9.png)
+![image](https://user-images.githubusercontent.com/52550295/188382661-366b96cf-d05a-4283-9a83-395a4ae220d4.png)
 
 - 실생활에서 찍은 가위바위보 사진으로 배경이 다양하고, 데이터의 분포가 trainset보다 상대적으로 넓은 것을 확인할 수 있음
 
