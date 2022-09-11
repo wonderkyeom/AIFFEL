@@ -9,11 +9,10 @@
 Contents|Practice|Project
 --------|--------|-------
 E1. Classification| Iris 품종 분류 ([link](https://github.com/wonderkyeom/AIFFEL/blob/master/Exploration2/Exploration2%20Practice.ipynb))| digits, wine, breast cancer 분류 ([link](https://github.com/wonderkyeom/AIFFEL/tree/master/Exploration2))
-| |
-E3. Kaggle| Kaggle 집값 예측 baseline ([link]())| Kaggle 집값 예측 submission ([link]())
 E5. Image Classification| MNIST 손글씨 분류 ([link](https://github.com/wonderkyeom/AIFFEL/blob/master/Exploration1/Exploration1%20Practice.ipynb))| 가위바위보 분류기 ([link](https://github.com/wonderkyeom/AIFFEL/blob/master/Exploration1/Exploration1%20Project%20FINAL(112x112).ipynb))
 | |
-E3. Face Detection| 카메라 스티커 앱 ([link]())| 고양이 수염 스티커 ([link]())
+E3. Kaggle| Kaggle 집값 예측 baseline ([link]())| Kaggle 집값 예측 submission ([link]())
+E7. Face Detection| 카메라 스티커 앱 ([link]())| 고양이 수염 스티커 ([link]())
 E4. Text Classification| IMDB 영화리뷰 감성분석 ([link]())| 네이버 영화리뷰 감성분석 ([link]())
 E5. Speech Recognition| 음성 인식 ([link]())| Spectrogram을 활용한 음성 인식 ([link]())
 E6. Text Generation| Shakespeare 대사 생성 ([link]())| 노래 가사 생성 ([link]())
